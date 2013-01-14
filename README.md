@@ -2,3 +2,7 @@ DSMBanner
 =========
 
 DSM Project DTAMedia:Banner
+
+
+STILL IN PROGRESS (ALPHA)
+NOT ALL FILES YET IN REPOSITORY
