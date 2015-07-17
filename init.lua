@@ -109,7 +109,7 @@ minetest.register_tool("dtamedia:tessaiga", {
 
 		minetest.register_tool("dtamedia:tenseiga", {
 	description = "Tenseiga",
-	inventory_image = "dtamedia_tool_tenseiga.png",
+	inventory_image = "default_tool_diamondsword.png",
 	tool_capabilities = {
 		full_punch_interval = 1.0,
 		max_drop_level=1,
